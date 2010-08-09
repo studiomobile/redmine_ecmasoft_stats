@@ -1,10 +1,10 @@
 require 'redmine'
 
 Redmine::Plugin.register :redmine_ecmasoft_stats do
-  name 'Redmine Ecmasoft Stats plugin'
-  author 'Author name'
-  description 'This is a plugin for Redmine'
+  name 'Ecmasoft Statistics plugin'
+  author 'Verbin Andrey/Martynov Sergey/Maxim Dobriakov'
+  description 'Plagin for calculate statistic about development'
   version '0.0.1'
-  url 'http://example.com/path/to/plugin'
-  author_url 'http://example.com/about'
+  url 'https://github.com/martynovs/redmine_ecmasoft_stats'
+  author_url 'https://github.com/martynovs/redmine_ecmasoft_stats'
 end
